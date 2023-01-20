@@ -1,2 +1,2 @@
 # Matrix-Calculator-Web
-Matrix Calculator as a Web Application.
+Web version of Matrix Calculator.
